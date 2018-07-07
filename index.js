@@ -16,4 +16,10 @@ function johnLennonFacts(array){
     return newArray
 }
 
-function iLoveTheBeatles()
+function iLoveTheBeatles(n){
+  var array = []
+  do {
+    array.push("I love the Beatles!")
+    n++
+  } while
+}
